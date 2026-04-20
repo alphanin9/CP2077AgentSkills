@@ -1,0 +1,4 @@
+interface:
+  display_name: "CP2077 Address Hash"
+  short_description: "Resolve Cyberpunk 2077 RVAs to address hashes"
+  default_prompt: "Use $cp2077-address-hash to translate Cyberpunk 2077 RVAs into address hashes."
