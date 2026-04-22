@@ -4,3 +4,4 @@ Mostly focused on native/scripting-oriented mods and less on WolvenKit, as I fee
 
 Currently added:
 - [RVA - address hash conversion](cp2077-address-hash/SKILL.md)
+- [General native/Redscript modding](cp2077-modding/SKILL.md)
