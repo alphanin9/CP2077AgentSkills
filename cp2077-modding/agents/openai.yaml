@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cyberpunk 2077 Modding"
+  short_description: "Native and Redscript CP2077 modding guidance"
+  default_prompt: "Use $cp2077-modding to help implement or analyze a Cyberpunk 2077 native or Redscript mod."
