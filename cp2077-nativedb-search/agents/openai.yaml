@@ -1,0 +1,4 @@
+interface:
+  display_name: "CP2077 NativeDB Search"
+  short_description: "Search Cyberpunk 2077 RTTI types and functions"
+  default_prompt: "Use $cp2077-nativedb-search to find Cyberpunk 2077 RTTI types and function signatures related to this task."
